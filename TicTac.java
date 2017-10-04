@@ -1,10 +1,3 @@
-/*
-Johnny Ceja
-Programming Assignment - Chapter 6 Arrays
-COMP B11 T TH 8:00 AM
-Richard Miles
-11/1/15
-*/
 import java.awt.*; 
 import java.awt.event.*;
 import javax.swing.*;
